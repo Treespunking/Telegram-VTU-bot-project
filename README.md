@@ -1,12 +1,12 @@
-# 📲 Telegram VTU Bot for Nigerian Telecom Services
+# Telegram VTU Bot for Nigerian Telecom Services
 
 This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Nigerian market. It enables users to register, purchase airtime and data, manage wallets, and receive customer support , all through a Telegram interface. Admins can manage providers, pricing, and users directly via Telegram commands.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧑‍💼 For Users
+### For Users
 
 - Register via Telegram
 - Check wallet balance
@@ -34,7 +34,7 @@ This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Ni
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── .env                        # Environment variables
@@ -52,7 +52,7 @@ This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Ni
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/telegram-vtu-bot.git
@@ -64,7 +64,7 @@ node bot.js
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Create a `.env` file in the root directory with values like:
 
@@ -76,7 +76,7 @@ MONGO_URI=your_mongodb_connection_string
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 node testSecret.js     # Example utility to verify secrets
@@ -84,13 +84,13 @@ node testSecret.js     # Example utility to verify secrets
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! Please open an issue first to discuss what you would like to change or add.
 
 ---
 
-## 📄 License
+## License
 
 [MIT](LICENSE)
 
