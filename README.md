@@ -96,6 +96,6 @@ Pull requests are welcome! Please open an issue first to discuss what you would 
 
 ---
 
-## 📞 Support
+## Support
 
 Use the `/support` command in the Telegram bot or contact the admin via the configured support line.
