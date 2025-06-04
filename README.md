@@ -15,7 +15,7 @@ This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Ni
 - View airtime/data prices
 - Contact support
 
-### 🛠 For Admins
+### For Admins
 
 - Add, list, and remove VTU providers
 - Set and delete airtime/data prices
@@ -24,7 +24,7 @@ This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Ni
 - View transactions
 - Update support and bank details
 
-### 🔧 System Features
+### System Features
 
 - Modular service-based structure
 - MongoDB data persistence (via Mongoose models)
@@ -81,13 +81,6 @@ MONGO_URI=your_mongodb_connection_string
 ```bash
 node testSecret.js     # Example utility to verify secrets
 ```
-
----
-
-## Contributing
-
-Pull requests are welcome! Please open an issue first to discuss what you would like to change or add.
-
 ---
 
 ## License
@@ -95,7 +88,3 @@ Pull requests are welcome! Please open an issue first to discuss what you would 
 [MIT](LICENSE)
 
 ---
-
-## Support
-
-Use the `/support` command in the Telegram bot or contact the admin via the configured support line.
