@@ -55,35 +55,12 @@ The project uses a **modular, service-based structure** with:
 
 ---
 
-## Installation
+## Target Market
 
-```bash
-git clone https://github.com/your-username/telegram-vtu-bot.git
-cd telegram-vtu-bot
-npm install
-cp .env.example .env  # Add your config values
-node bot.js
-```
+This bot is specifically tailored for the **Nigerian fintech/telecom market**, providing a convenient way for users to top up their mobile accounts without leaving Telegram. It's essentially a digital wallet and mobile recharge service integrated into a messaging platform.
 
----
+The project appears to be a complete commercial solution for running a VTU business through Telegram, with both customer-facing features and comprehensive admin tools for business management.
 
-## Configuration
-
-Create a `.env` file in the root directory with values like:
-
-```
-BOT_TOKEN=your_telegram_bot_token
-MONGO_URI=your_mongodb_connection_string
-...
-```
-
----
-
-## Testing
-
-```bash
-node testSecret.js     # Example utility to verify secrets
-```
 ---
 
 ## License
