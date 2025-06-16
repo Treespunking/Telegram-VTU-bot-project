@@ -24,13 +24,16 @@ This is a **Telegram-based VTU (Virtual Top-Up) bot system** designed for the Ni
 - View transactions
 - Update support and bank details
 
-### System Features
+## Technical Architecture
 
-- Modular service-based structure
-- MongoDB data persistence (via Mongoose models)
-- Environment-based configuration
-- Retry logic for API resiliency
-- Middleware for admin access control
+The project uses a **modular, service-based structure** with:
+
+- **Backend**: Node.js with MongoDB (via Mongoose)
+- **Bot Framework**: Telegram Bot API
+- **Database**: MongoDB for data persistence
+- **Configuration**: Environment-based setup
+- **Resilience**: Built-in retry logic for API calls
+- **Security**: Middleware for admin access control
 
 ---
 
